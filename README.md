@@ -1,4 +1,4 @@
-# Linux Mint Windows 12 Like Theme
+# Linux Mint Windows 12 Like Panel Theme
 
 ## Replace cinnamon.css file of your theme with following cinnamon.css file below
 
